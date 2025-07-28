@@ -1,0 +1,42 @@
+{
+    "version": "2.0",
+    "routeKey": "POST /blog-genreration",
+    "rawPath": "/dev/blog-genreration",
+    "rawQueryString": "",
+    "headers": {
+        "accept": "",
+        "accept-encoding": "gzip, deflate, br",
+        "cache-control": "no-cache",
+        "content-length": "38",
+        "content-type": "application/json",
+        "host": "ea29n0uqd8.execute-api.us-east-1.amazonaws.com",
+        "postman-token": "80a7397c-c1fb-47fa-a8c7-82babcb44c83",
+        "user-agent": "PostmanRuntime/7.44.1",
+        "x-amzn-trace-id": "Root=1-68875201-44ab6e9d7532daad748db664",
+        "x-forwarded-for": "54.86.50.139",
+        "x-forwarded-port": "443",
+        "x-forwarded-proto": "https"
+    },
+    "requestContext": {
+        "accountId": "797375235131",
+        "apiId": "ea29n0uqd8",
+        "domainName": "ea29n0uqd8.execute-api.us-east-1.amazonaws.com",
+        "domainPrefix": "ea29n0uqd8",
+        "http": {
+            "method": "POST",
+            "path": "/dev/blog-genreration",
+            "protocol": "HTTP/1.1",
+            "sourceIp": "54.86.50.139",
+            "userAgent": "PostmanRuntime/7.44.1"
+        },
+        "requestId": "OanARj-xoAMEMig=",
+        "routeKey": "POST /blog-genreration",
+        "stage": "dev",
+        "time": "28/Jul/2025:10:33:37 +0000",
+        "timeEpoch": 1753698817313
+    },
+    "body": {
+        "blogTopic": "Machine Learning"
+    },
+    "isBase64Encoded": false
+}
